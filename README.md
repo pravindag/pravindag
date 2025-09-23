@@ -28,7 +28,7 @@
 
 ## 📫 Reach Me At
 - ✉️ Email: **pravindagunathilaka@gmail.com**  
-- 🔗 LinkedIn: www.linkedin.com/in/pravinda-udayanga-3b1340180
+- 🔗 LinkedIn: **www.linkedin.com/in/pravinda-udayanga-3b1340180**
 
 
 
