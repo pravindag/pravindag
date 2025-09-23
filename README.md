@@ -4,10 +4,12 @@
 💻 Senior Software Engineer | 🚀 Aspiring Data Scientist & AI Engineer  
 
 
+
 ## 🌟 What I’m About
 - 🔍 Passionate about **Machine Learning, AI, and Data Engineering**  
 - 🛠️ Skilled in **full-stack development** with experience in backend, frontend, and mobile apps  
 - 📊 Always curious to turn **data into insights and intelligence**  
+
 
 
 ## 🤝 Let’s Connect
@@ -16,10 +18,12 @@
 - 🚀 Love sharing knowledge & learning from the community  
 
 
+
 ## 💬 What You Can Ask Me About
 - ⚙️ Software Engineering (Java, MERN, Laravel, Spring Boot)  
 - 📊 Data Science & Machine Learning (Python, Pandas, Scikit-learn, TensorFlow, PyTorch)  
 - ☁️ Cloud & Deployment (AWS, Azure, Docker, CI/CD)  
+
 
 
 ## 📫 Reach Me At
@@ -27,10 +31,12 @@
 - 🔗 LinkedIn: www.linkedin.com/in/pravinda-udayanga-3b1340180
 
 
+
 ## ⚡ Quick Facts
 - 🎯 Strong programming background + growing AI expertise  
 - 📚 Believer in **lifelong learning**  
 - 🎮 Outside of work, I enjoy **exploring tech trends & building side projects**  
+
 
 
 ## 💻 Tech Stack
@@ -44,6 +50,7 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2300C4CC.svg?style=flat&logo=database&logoColor=white)
+
 
 
 ### 📚 Frameworks & Libraries
@@ -64,11 +71,13 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
 
 
+
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+
 
 
 ### ☁️ DevOps & Cloud
@@ -79,6 +88,7 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
+
 
 
 ### 🛠️ Tools & Others
